@@ -1,2 +1,11 @@
-# cloud
-A repository focused on cloud architecture, microservices deployment, infrastructure as code, and scalable cloud-native applications using modern cloud technologies.
+# Description
+Cloud computing concepts, architecture patterns, and deployment examples including containerization, infrastructure as code, and scalable cloud-native applications.
+
+# Content
+Docker
+
+Kubernetes
+
+Cloud architecture diagrams
+
+Deployment examples
